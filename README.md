@@ -10,6 +10,9 @@ Gestión de residuos: El embalaje de los envíos no está optimizado, generando 
 residuos plásticos y de cartón sin trazabilidad de reciclajeReparto de tareas
 
 Isa->  Prototipo/Mockup de la Aplicación Web 
+
 Mario-> Impacto en ODS y  Gestión de Riesgos y Oportunidades
+
 Marc-> Estándares y Métricas
+
 Antonio-> Análisis de Materialidad y Stakeholders
