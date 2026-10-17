@@ -29,7 +29,7 @@ El trabajo se organiza entre los integrantes del equipo de la siguiente manera:
 
 El repositorio se utiliza para organizar la documentación del proyecto y facilitar el trabajo colaborativo.
 
-- **Archivos Markdown (`.md`):** documentación de los distintos apartados, desarrollados por cada integrante.
+- **Archivos Markdown (`.md`):** documentación de la propuesta y de los distintos apartados, desarrollados por cada integrante.
 - **Carpeta `img/`:** imágenes, capturas y recursos gráficos utilizados en la documentación.
 - **README.md:** presentación general del proyecto, descripción del reto y reparto de tareas.
 
