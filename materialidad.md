@@ -1,17 +1,17 @@
 # Análisis de Materialidad y Stakeholders
 
-## 1. Identificación y Mapeo de Stakeholders (Grupos de Interés)
+## 1. Mapeo de Stakeholders y Funciones de la Aplicación Web
 
-Para asegurar que la aplicación web responda a las necesidades de **ACME Transport S.L.**, se han identificado y priorizado los siguientes grupos de interés internos y externos:
+Para responder a las necesidades de **ACME Transport S.L.**, se relacionan los principales grupos de interés con sus necesidades prioritarias y la función concreta que les ofrece la aplicación web:
 
-| Grupo de Interés | Tipo | Intereses y Expectativas Clave | Relación con la Aplicación Web |
-| --- | --- | --- | --- |
-| **Dirección y Gerencia** | Interno | Cumplimiento normativo, eficiencia operativa, reducción de costes energéticos/combustible y mejora del valor de marca. | Consultará el dashboard ejecutivo para la toma de decisiones estratégicas. |
-| **Conductores y Personal de Reparto** | Interno | Rutas eficientes, condiciones de trabajo seguras, carga justa y concienciación ambiental. | Proveen datos operativos de consumo/rutas y se benefician de la optimización de trayectos. |
-| **Personal de Almacén y Operaciones** | Interno | Seguridad laboral, reducción de residuos de embalaje, facilitación del reciclaje y gestión eficiente del consumo eléctrico. | Registrarán datos de uso de materiales/residuos y consumo de instalaciones en la plataforma. |
-| **Clientes (Comercio Electrónico)** | Externo | Envíos sostenibles, transparencia en la huella de carbono por paquete y embalajes ecológicos. | Recibirán informes/certificados de emisiones asociadas a sus envíos y métricas de reciclaje. |
-| **Proveedores de Materiales y Flota** | Externo | Exigencias de empaquetado sostenible, vehículos de bajas emisiones y contratos éticos. | Integración progresiva de criterios ASG en la cadena de suministro. |
-| **Organismos Reguladores y Admin. Pública** | Externo | Cumplimiento de normativas ambientales (emisiones, gestión de residuos) y reporte ASG veraz. | La aplicación generará reportes estructurados para auditorías e inspecciones. |
+| Grupo de Interés | Tipo | Necesidad Principal | Función en la Aplicación Web |
+| :--- | :--- | :--- | :--- |
+| **Dirección y Gerencia** | Interno | Controlar KPI globales y reducir costes energéticos. | **Dashboard Ejecutivo:** Vista general con gráficos de emisiones y alertas de consumo. |
+| **Conductores y Reparto** | Interno | Optimizar rutas y reducir consumo en entregas. | **Módulo de Flota:** Registro de consumos e indicadores de eficiencia en la *última milla*. |
+| **Personal de Almacén** | Interno | Reducir el uso de embalajes y facilitar el reciclaje. | **Módulo de Residuos:** Registro de peso de materiales de packaging y tasa de reciclaje. |
+| **Clientes (e-Commerce)** | Externo | Conocer el impacto ambiental de sus envíos. | **Módulo de Impacto:** Certificados de $CO_2$ y reporte de packaging ecológico por paquete. |
+| **Organismos Reguladores** | Externo | Disponer de datos veraces y auditables. | **Módulo de Reporte ASG:** Exportación de informes oficiales para auditorías e inspecciones. |
+| **Proveedores y Comunidad** | Externo | Fomentar la sostenibilidad y reducir la contaminación. | **Módulo de Cadena de Suministro:** Seguimiento de criterios ASG en compras y reparto urbano. |
 
 ---
 
